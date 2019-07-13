@@ -4,7 +4,7 @@ from openpyxl import load_workbook
 
 # 可修改路径及sheet_name
 path = r'abc.xlsx'
-sheet_name = '上海起卡'
+sheet_name = '???'
 # 固定语句不需改动
 wb = load_workbook(filename = path, data_only = True)
 sheet = wb[sheet_name]
