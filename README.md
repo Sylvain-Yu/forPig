@@ -11,12 +11,10 @@ for windows:
   * key-windows + R
   * type 'CMD', confirm
   * type 'pip3 install openpyxl',confirm
-now you are finished environment setting.
 
 for macbook:
   * you can install python3 with brew, run terminal 'brew install pip3'
   * also 'pip3 install openpyxl'
-now you are finished environment setting.
 
 for Linux:
   * install it with your way: yum,npm,apt...
